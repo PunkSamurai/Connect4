@@ -1,3 +1,6 @@
+Mobile Application Project by David Tony Veliath
+
+
 ## Connect-Four
 Connect-Four is a classic two-player game recreated as an Android application. This version offers both single-player (AI) and multiplayer gameplay with a modern interface. <br>
 
